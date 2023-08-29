@@ -1,7 +1,9 @@
 # Landing page Barbearia Corleone Classic Cuts
  Uma página de destino pode ser parte de um microsite ou uma única página no site principal de uma organização.
 ***   
-  # Preview:
+# Preview:
+
+![Barbearia](barbearia.gif)
 ***
 ## 🛠️ Construído com
 
